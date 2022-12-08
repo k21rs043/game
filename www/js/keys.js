@@ -1,0 +1,4 @@
+// This is a JavaScript file
+
+ var APPLICATION_KEY ="aa3f25e57cec6744d0151c866533983dd6b5e81a4b01c4bae90877357c7a420a";
+  var CLIENT_KEY ="6a933101b03109bd4425d5bda7b27554ce7cc5b0683076531bd4e2c5af72de4a";
