@@ -17,8 +17,11 @@ function toRanking() {
 // 【mBaaS】保存したデータの検索と取得
 function checkRanking() {
     // **********【問題２】ランキングを表示しよう！**********
-    
-    
+    // 保存先クラスを作成
+    var GameScore = ncmb.DataStore("GameScore");
+    // クラスインスタンスを生成
+    var gameScore = new GameScore();
+    gameScore.limit(5)
     
     
     
